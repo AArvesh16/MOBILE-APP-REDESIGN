@@ -73,3 +73,6 @@ Through this redesign, I successfully created a modern, user-friendly, and conve
 This case study showcases my ability to identify UX problems, design innovative solutions, and create seamless digital experiences. 
 
 # OUTPUT
+![Image](https://github.com/user-attachments/assets/7d4fefc3-ccf8-4215-b4d4-24d4557ef5e2)
+
+![Image](https://github.com/user-attachments/assets/9ebd5cd3-9da5-4558-9ba6-7c474e2c726d)
