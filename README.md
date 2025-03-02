@@ -1,5 +1,17 @@
 # MOBILE-APP-REDESIGN
 
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME : AARVESH UMAKANT GAONKAR
+
+INTERN ID : CT08SDD
+
+DOMAIN : UI/UX Design
+
+DURATION : 4 WEEKS
+
+MENTOR : NEELA SANTOSH
+
 **Introduction**
 
 Pepperfry is a leading online furniture and home décor e-commerce platform, offering a vast selection of products. However, its mobile app has some usability and design challenges that affect the user experience, such as cluttered navigation, a complex checkout process, and inefficient product discovery.
