@@ -51,7 +51,7 @@ To bring my design ideas to life, I used the following tools:
  Improved Navigation & Search:
 
 Introduced a sticky bottom navigation bar with easy access to Home, Categories, Cart, and Profile.
-Added an AI-powered smart search with voice and image search features.
+Added an AI-powered smart search image search features.
  Optimized Product Discovery & Shopping Experience:
 
 Redesigned product filters to allow multi-selection and sorting in one step.
